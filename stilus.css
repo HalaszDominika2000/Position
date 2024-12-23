@@ -1,0 +1,39 @@
+header {
+    position: fixed;
+    top: 1px;
+    left: 1px;
+    width: 100%;
+    background-color: greenyellow;
+    text-align: center; /*szöveg középre kerül*/
+    font-size: 150%; /*betűméret*/
+    height: 50px;
+
+
+
+}
+footer {
+    position: fixed;
+    bottom: 1px;  
+    left: 1px;  
+    width: 100%;
+    background-color: greenyellow;
+    text-align: center;
+}
+nav {
+    position: fixed;
+    top: 110px;
+    right: 20px;
+}
+main {
+    top: 110px;
+    right: 20px;
+    background-color: white;
+    width: 70%; /*szélesség*/
+    margin: auto; /*középre rakom*/
+}
+body {
+    background-color: grey;
+}
+aside {
+    padding-top: 50px; /*felső margó*/
+}
